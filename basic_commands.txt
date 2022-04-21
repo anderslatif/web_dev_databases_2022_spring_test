@@ -23,6 +23,7 @@ DELETE          DELETE               remove/deleteMany
                 TRUNCATE             remove
 
 
+
 Create a new database 
 Create a collection
 Do full CRUD on it
